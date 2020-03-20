@@ -7,7 +7,7 @@ Pro návod, jakým způsobem platforma [gjk.cat](https://gjk.cat) funguje, navš
 
 ## Kompilace
 
-0. v případě, že `cat-prep`, `mdbook` a `rust` jsou již nainstalované v systému:
+0. v případě, že `cat-prep`, `mdbook`, `cat-prep` a `rust` jsou již nainstalované v systému:
 
 ```sh
 mdbook build

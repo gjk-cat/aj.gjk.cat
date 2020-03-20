@@ -1,3 +1,5 @@
+<p style="text-align:center"><img src="img/cat.png"></p>
+
 # GJK Cat Angličtina - Repozitář studijních materiálů
 
 Vítejte na webu GJK Kočky, který slouží jako zdroj studijních materiálů jak od kantorů, tak od studentů.

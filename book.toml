@@ -7,7 +7,6 @@ title = "GJK Cat Angličtina - Repozitář studijních materiálů z angličtiny
 create-missing = true
 
 [preprocessor.links]
-[output.epub]
 [output.html]
 theme = "src/theme"
 

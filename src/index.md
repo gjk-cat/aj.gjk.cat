@@ -1,4 +1,4 @@
-# GJK Cat Angličina - Repozitář studijních materiálů
+# GJK Cat Angličtina - Repozitář studijních materiálů
 
 Vítejte na webu GJK Kočky, který slouží jako zdroj studijních materiálů jak od kantorů, tak od studentů.
 V postranní nabídce si můžete zvolit předmět a přesunout se na materiály daného předmětu.
@@ -11,5 +11,5 @@ Pokud je neznáte, navštivte <https://gjk.cat>.
 
 ## Kontakt
 Tuto wiki spravuje [_Lukáš Hozda_](mailto:luk.hozda@gmail.com).
-Pro více kontaktních informací navštivte mojí kartu učitele..
+Pro více kontaktních informací navštivte mojí kartu učitele.
 

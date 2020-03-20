@@ -1,8 +1,8 @@
 # aj.gjk.cat
 
-Tato stránka obsahuje studijní materiály z informatických předmětů.
+Tato stránka obsahuje studijní materiály z anglicky zaměřených předmětů.
 
-Pro návod, jakým způsobem <https://gjk.cat> funguje, navštivte odkaz
+Pro návod, jakým způsobem platforma [gjk.cat](https://gjk.cat) funguje, navštivte odkaz
 <https://github.com/gjk-cat/cat-prep>
 
 ## Kompilace

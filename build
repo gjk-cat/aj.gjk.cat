@@ -5,5 +5,11 @@ curl https://sh.rustup.rs -sSf | sh -s -- --profile minimal --default-toolchain 
 source $HOME/.cargo/env
 
 cargo install mdbook
+cargo install mdbook-cat-prep
+
+# reclone required because we need git
+git clone https://github.com/gjk-cat/aj.gjk.cat
+
+cd it.gjk.cat
 
 mdbook build
